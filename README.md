@@ -1,5 +1,5 @@
 # Sudoku Hidato
-Haskell project to solve and generate Sudoku Hidato  
+Haskell project to solve and generate Sudoku Hidato.  
 To run the code you must have the Haskell compiler installed.
 ```
 > ghci
