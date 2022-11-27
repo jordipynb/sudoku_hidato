@@ -1,7 +1,6 @@
 # Sudoku Hidato
 Haskell project to solve and generate Sudoku Hidato  
-
-Para ejecutar el código debe tener instalado el compilador de Haskell
+To run the code you must have the Haskell compiler installed.
 ```
 > ghci
 > :load main
